@@ -1,7 +1,7 @@
 # T20 World Cup Data Analyze
 I’ve developed a comprehensive Power BI dashboard to analyze T20 World Cup Cricket data, leveraging various tools and techniques to deliver insightful analyses. 📊🏏
 
-🔹 Data Collection: Extracted data using web scraping from ESPN Cricinfo
+🔹 Data Collection: Extracted data using web scraping from ESPN Cricinfo<br>
 🔹 Data Cleaning & Transformation: Utilized Python and Pandas for efficient data preparation
 🔹 Data Transformation: Applied Power Query in Power BI for further data manipulation
 🔹 Data Modeling & Analysis: Implemented DAX to build parameters and models
